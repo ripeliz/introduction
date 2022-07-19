@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">introduction app</string>
+    <string name="hello_world_my_name_is_elizabeth_but_most_people_call_me_liz_i_have_a_cat_named_clementine_and_she_has_a_heart_on_her_side_d">Hello World! My name is Elizabeth but most people call me Liz. I have a cat named Clementine and she has a heart on her side :D.</string>
+    <string name="say_hello">Say hello!</string>
+</resources>
